@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://localhost/mernpay",
+  "jwtSecret": "carlos"
+}
